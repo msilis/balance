@@ -1,0 +1,10 @@
+#balance-container {
+    width: 40rem;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid black;
+    border-radius: 25px;
+    background-image: linear-gradient(to right, yellow, pink);
+    box-shadow: 10px 10px 10px darkgray;
+}

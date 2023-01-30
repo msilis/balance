@@ -1,0 +1,36 @@
+.input-card-container {
+    width: 40rem;
+    height: 12rem;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid black;
+    border-radius: 25px;
+    background-image: linear-gradient(to right, yellow, pink);
+    box-shadow: 10px 10px 10px darkgray;
+}
+
+#input-field {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#user-input {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+p {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+button {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: peachpuff;
+    height: 35px;
+    width: 130px;
+    margin: .5rem;
+    box-shadow: 5px 5px 5px gray;
+}
